@@ -8,6 +8,9 @@
 - **Libraries & Tools:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras
 - **Databases:** PostgreSQL, MySQL, SQLite
 - **Version Control:** Git, GitHub
+- **Cloud Platforms:** AWS
+- **Containerization:** Docker, Kubernetes
+- **CI/CD:** GitHub Actions
 
 ## 📚 Projects
 
