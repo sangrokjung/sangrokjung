@@ -1,3 +1,25 @@
+# 👋 Hi, I'm SangRok Jung
+
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python, JavaScript, SQL
+- **Web Frameworks:** FastAPI
+- **Libraries & Tools:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Version Control:** Git, GitHub
+
+## 📚 Projects
+
+### [Project : AlphaMale](https://github.com/sangrokjung/alpha_male_dl_server)
+
+## 🌐 Find me on the web
+
+- 📧 Email: [youremail@example.com](mailto:sesileo82@gmail.com)
+- 💼 LinkedIn: [yourlinkedin](https://www.linkedin.com/in/sangrok-jung-917263234/)
+
+<br>
+
 <p align="left">
     
 <img src="https://img.shields.io/badge/pycharm-25292E?style=for-the-badge&logo=pycharm">
