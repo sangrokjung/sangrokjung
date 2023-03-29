@@ -11,6 +11,8 @@
 - **Cloud Platforms:** <img src="https://img.shields.io/badge/EC2-Amazon-25292E?style=for-the-badge&logo=amazonec2">, <img src="https://img.shields.io/badge/RDS-Amazon-25292E?style=for-the-badge&logo=amazonrds">, <img src="https://img.shields.io/badge/ECS-Amazon-25292E?style=for-the-badge&logo=amazonecs">, <img src="https://img.shields.io/badge/S3-Amazon-25292E?style=for-the-badge&logo=amazons3">
 - **Containerization:** <img src="https://img.shields.io/badge/docker-25292E?style=for-the-badge&logo=docker">, Kubernetes
 - **CI/CD:** <img src="https://img.shields.io/badge/github actions-25292E?style=for-the-badge&logo=githubactions">
+- **IDE:** <img src="https://img.shields.io/badge/pycharm-25292E?style=for-the-badge&logo=pycharm">, <img src="https://img.shields.io/badge/jupyter-25292E?style=for-the-badge&logo=jupyter">
+
 
 ## 📚 Projects
 
@@ -18,15 +20,13 @@
 
 ## 🌐 Find me on the web
 
-- 📧 Email: [youremail@example.com](mailto:sesileo82@gmail.com)
-- 💼 LinkedIn: [yourlinkedin](https://www.linkedin.com/in/sangrok-jung-917263234/)
+- 📧 Email: [sesileo82@gmail.com](mailto:sesileo82@gmail.com)
+- 💼 LinkedIn: [sangrok jung](https://www.linkedin.com/in/sangrok-jung-917263234/)
 
 <br>
 
 <p align="left">
     
-<img src="https://img.shields.io/badge/pycharm-25292E?style=for-the-badge&logo=pycharm">
-<img src="https://img.shields.io/badge/jupyter-25292E?style=for-the-badge&logo=jupyter">
 
 
 
