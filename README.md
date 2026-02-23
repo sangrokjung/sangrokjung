@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@qjc_qjc"><img src="https://img.shields.io/badge/YouTube-20K+-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://github.com/sangrokjung/claude-forge"><img src="https://img.shields.io/github/stars/sangrokjung/claude-forge?style=flat-square&label=claude-forge&color=blueviolet" alt="claude-forge"></a>
-  <a href="https://www.linkedin.com/in/sangrok-jung-917263234/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sangrok-jung-9ab787311/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=sangrokjung&style=flat-square&color=533483" alt="Profile Views">
 </p>
 
@@ -68,11 +68,11 @@
 <p>
   <a href="https://www.youtube.com/@qjc_qjc"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.instagram.com/qjc.ai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.threads.net/@qjc.ai"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
-  <a href="https://www.linkedin.com/in/sangrok-jung-917263234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.threads.com/@qjc.ai"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://www.linkedin.com/in/sangrok-jung-9ab787311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.gg/2gh9kZrdG6"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-**Email:** [sesileo82@gmail.com](mailto:sesileo82@gmail.com) &bull; **Web:** [quantumjumpclub.com](https://quantumjumpclub.com)
+**Email:** [sesileo82@gmail.com](mailto:sesileo82@gmail.com) &bull; **Web:** [qjc.app](https://qjc.app)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:533483,100:e94560&height=120&section=footer" width="100%"/>
