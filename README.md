@@ -1,14 +1,14 @@
-<h1 align="center">SangRok Jung</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:533483,100:e94560&height=220&section=header&text=SangRok%20Jung&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Transformation%20(AX)%20Architect&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <strong>Founder & CEO, <a href="https://quantumjumpclub.com">Quantum Jump Club</a></strong><br>
-  AI Transformation (AX) Consultant &bull; Automation Architect &bull; Open Source Contributor
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Founder+%26+CEO+%40+Quantum+Jump+Club;B2B+AI+Automation+Consulting;Building+Open+Source+Dev+Tools" alt="Typing SVG"></a>
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/@qjc_qjc"><img src="https://img.shields.io/badge/YouTube-20K+-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://github.com/sangrokjung/claude-forge"><img src="https://img.shields.io/github/stars/sangrokjung/claude-forge?style=flat-square&label=claude-forge&color=blueviolet" alt="claude-forge"></a>
   <a href="https://www.linkedin.com/in/sangrok-jung-917263234/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=sangrokjung&style=flat-square&color=533483" alt="Profile Views">
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ### Featured Open Source
 
 <a href="https://github.com/sangrokjung/claude-forge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangrokjung&repo=claude-forge&theme=dark&hide_border=true" alt="claude-forge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangrokjung&repo=claude-forge&theme=radical&hide_border=true" alt="claude-forge">
 </a>
 
 **[Claude Forge](https://github.com/sangrokjung/claude-forge)** — Claude Code를 완전한 개발 환경으로 변환하는 프레임워크
@@ -53,6 +53,16 @@
 
 ---
 
+### Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangrokjung/sangrokjung/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangrokjung/sangrokjung/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/sangrokjung/sangrokjung/output/github-snake.svg" alt="Snake animation" width="100%">
+</picture>
+
+---
+
 ### Connect
 
 <p>
@@ -64,3 +74,5 @@
 </p>
 
 **Email:** [sesileo82@gmail.com](mailto:sesileo82@gmail.com) &bull; **Web:** [quantumjumpclub.com](https://quantumjumpclub.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:533483,100:e94560&height=120&section=footer" width="100%"/>
