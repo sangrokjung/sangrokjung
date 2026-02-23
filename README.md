@@ -109,7 +109,7 @@ AI 개발 도구 프레임워크 공개 및 운영
 </p>
 
 <p align="center">
-  📧 <a href="mailto:sesileo82@gmail.com">sesileo82@gmail.com</a>
+  📧 <a href="mailto:sangrok@quantumjumpclub.com">sangrok@quantumjumpclub.com</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:533483,100:e94560&height=120&section=footer" width="100%"/>
