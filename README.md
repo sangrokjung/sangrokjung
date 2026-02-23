@@ -1,65 +1,66 @@
-# 👋 Hi, I'm SangRok Jung
-
-**Founder & CEO of [Quantum Jump Club](https://quantumjumpclub.com)** — AI Automation Educator & Consultant
-
-> "자동화를 통해 지금 당장 필요한 업무에 집중하세요."
-
-코딩 없이 AI 자동화를 구현하고 싶은 1인 기업가, 마케터, 스타트업을 위한 실전 교육과 솔루션을 제공합니다.
-
----
-
-## 🚀 What I Do
-
-- **AI 자동화 교육** — Make.com, n8n, OpenAI API를 활용한 실무 자동화 강의
-- **B2B 자동화 컨설팅** — 기업 맞춤형 업무 프로세스 자동화 설계 및 구현
-- **콘텐츠 크리에이터** — 유튜브 20,000+ 구독자, AI 자동화 노하우 공유
-
----
-
-## 🛠️ Skills & Technologies
-
-### Automation & No-Code
-<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"> <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white">
-
-### AI & APIs
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"> <img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logoColor=white">
-
-### Development
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-
-### Data & ML
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-
-### Database & Cloud
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
----
-
-## 📚 Featured Projects
-
-### [Quantum Jump Club](https://quantumjumpclub.com)
-AI 자동화 교육 플랫폼 — VOD 교육, 멤버십 커뮤니티, 자동화 시나리오 스토어 운영
-
-### [정부지원사업 자동화 마스터클래스](https://quantumjumpclub.com)
-AI로 정부지원사업 공고 필터링부터 사업계획서 초안 작성까지 자동화하는 교육 프로그램
-
-### [AlphaMale DL Server](https://github.com/sangrokjung/alpha_male_dl_server)
-딥러닝 기반 프로젝트
-
----
-
-## 🌐 Connect with Me
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@qjc_qjc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qjc.ai/)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@qjc.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangrok-jung-917263234/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2gh9kZrdG6)
-
-📧 **Email:** [sesileo82@gmail.com](mailto:sesileo82@gmail.com)
-
----
+<h1 align="center">SangRok Jung</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangrokjung&show_icons=true&theme=dark" alt="GitHub Stats">
+  <strong>Founder & CEO, <a href="https://quantumjumpclub.com">Quantum Jump Club</a></strong><br>
+  AI Transformation (AX) Consultant &bull; Automation Architect &bull; Open Source Contributor
 </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@qjc_qjc"><img src="https://img.shields.io/badge/YouTube-20K+-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://github.com/sangrokjung/claude-forge"><img src="https://img.shields.io/github/stars/sangrokjung/claude-forge?style=flat-square&label=claude-forge&color=blueviolet" alt="claude-forge"></a>
+  <a href="https://www.linkedin.com/in/sangrok-jung-917263234/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+---
+
+### About
+
+비즈니스에 AI를 심는 사람입니다.
+
+**AX(AI Transformation)**는 단순 도구 도입이 아니라, 업무 프로세스 자체를 AI 중심으로 재설계하는 것입니다. 기업이 AI를 "써보는" 단계에서 "운영하는" 단계로 넘어가도록 설계하고 구현합니다.
+
+- **B2B AX 컨설팅** — 기업 맞춤형 AI 업무 자동화 설계 및 구현
+- **AX 교육** — Make.com, n8n, Claude Code 기반 실전 자동화 강의
+- **오픈소스** — AI 개발 도구 프레임워크 공개 및 운영
+
+---
+
+### Featured Open Source
+
+<a href="https://github.com/sangrokjung/claude-forge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangrokjung&repo=claude-forge&theme=dark&hide_border=true" alt="claude-forge">
+</a>
+
+**[Claude Forge](https://github.com/sangrokjung/claude-forge)** — Claude Code를 완전한 개발 환경으로 변환하는 프레임워크
+
+11 Agents &bull; 36 Commands &bull; 15 Skills &bull; 14 Hooks &bull; MIT License
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+---
+
+### Connect
+
+<p>
+  <a href="https://www.youtube.com/@qjc_qjc"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.instagram.com/qjc.ai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.threads.net/@qjc.ai"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://www.linkedin.com/in/sangrok-jung-917263234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discord.gg/2gh9kZrdG6"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
+**Email:** [sesileo82@gmail.com](mailto:sesileo82@gmail.com) &bull; **Web:** [quantumjumpclub.com](https://quantumjumpclub.com)
