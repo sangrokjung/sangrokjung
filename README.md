@@ -51,12 +51,21 @@ AI 개발 도구 프레임워크 공개 및 운영
 
 ### Featured Open Source
 
-<a href="https://github.com/sangrokjung/claude-forge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangrokjung&repo=claude-forge&theme=radical&hide_border=true&bg_color=0d1117" alt="claude-forge">
-</a>
+<table>
+<tr>
+<td>
 
-> **[Claude Forge](https://github.com/sangrokjung/claude-forge)** — Claude Code를 완전한 개발 환경으로 변환하는 프레임워크<br>
-> `11 Agents` `36 Commands` `15 Skills` `14 Hooks` `MIT License`
+#### 🔥 [Claude Forge](https://github.com/sangrokjung/claude-forge)
+
+Claude Code를 완전한 개발 환경으로 변환하는 프레임워크
+
+`11 Agents` `36 Commands` `15 Skills` `14 Hooks`
+
+[![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/sangrokjung/claude-forge/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/sangrokjung/claude-forge?style=flat-square&color=e94560)](https://github.com/sangrokjung/claude-forge/stargazers) [![Shell](https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/sangrokjung/claude-forge)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -82,10 +91,7 @@ AI 개발 도구 프레임워크 공개 및 운영
 
 <p align="center">
   <a href="https://github.com/sangrokjung">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangrokjung&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak" width="49%">
-  </a>
-  <a href="https://github.com/sangrokjung">
-    <img src="https://github-readme-stats.vercel.app/api?username=sangrokjung&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=e94560&title_color=e94560" alt="GitHub Stats" width="49%">
+    <img src="https://streak-stats.demolab.com/?user=sangrokjung&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak">
   </a>
 </p>
 
